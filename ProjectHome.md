@@ -1,0 +1,1 @@
+FontSettings .Net library part of the Fb2ePub project ( http://www.fb2epub.net )
